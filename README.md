@@ -2,7 +2,7 @@
 
 CodeVista is a visually stunning, minimalist interpretation of a GitHub clone, designed with a focus on clarity, simplicity, and an exceptional user experience. Built on Cloudflare's edge network, it offers a fast, read-only interface for browsing users, repositories, and code. The application's core philosophy is 'less is more', stripping away the complexity of a full-featured Git platform to provide a serene and focused environment for code exploration.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/heimanba/codevista-a-minimalist-github-clone)
 
 ## ✨ Key Features
 
@@ -81,7 +81,7 @@ This project is optimized for deployment on the Cloudflare network.
 
 Alternatively, you can deploy your own version of this project with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/heimanba/codevista-a-minimalist-github-clone)
 
 ## 🤝 Contributing
 
